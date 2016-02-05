@@ -1,7 +1,7 @@
 # SLP-Demand_Decomposition_Tool
 
 
-``
+```
 @INPROCEEDINGS{7386995, 
 author={Methenitis, G. and Kaisers, M. and La Poutre, H.}, 
 booktitle={Smart Grid Technologies - Asia (ISGT ASIA), 2015 IEEE Innovative}, 
@@ -12,4 +12,4 @@ abstract={In this paper, we propose a multi-scale model of energy demand that is
 keywords={demand side management;energy consumption;power generation scheduling;power markets;pricing;demand response;electricity markets;energy consumption;intelligent energy cooperatives;intelligent scheduling;market prices;multiscale energy demand model;residential electric loads;sharing market risks;time-shiftable electric processes;Data models;Energy consumption;Load management;Load modeling;Mathematical model;Semantics;Standards;Cooperative systems;Demand Response;Power system economics;Smart grids}, 
 doi={10.1109/ISGT-Asia.2015.7386995}, 
 month={Nov},}
-``
+```
