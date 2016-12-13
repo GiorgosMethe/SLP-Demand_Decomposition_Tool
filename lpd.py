@@ -1,7 +1,6 @@
 from operator import itemgetter
 
 import numpy as np
-import matplotlib.pyplot as plt
 
 import warnings
 
